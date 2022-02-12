@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "first-page"
+title:  "week1"
 ---
 
 # Welcome
